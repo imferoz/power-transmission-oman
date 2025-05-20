@@ -1,5 +1,7 @@
 User-agent: *
-Disallow: /cdn-cgi/l/email-protection
-Allow: /
+Allow: /solutions/
+Allow: /about/
+Disallow: /cdn-cgi/
+Disallow: /archive/
 
 Sitemap: https://power-transmission-oman.alwejhagroup.com/sitemap.xml
